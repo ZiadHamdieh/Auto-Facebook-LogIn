@@ -1,3 +1,3 @@
-## Enter your email and password betweem quotes below
+## Enter your credentials between quotes below
 email = ""
 password = ""
